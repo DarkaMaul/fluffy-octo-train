@@ -38,10 +38,21 @@ We describe more in details our gear list in this page (TODO)
 
 ### Bus
 
+We used extensively the bus network to travel between the sections. It is both affordable and reliable. However, getting the schedules of the smaller buses can be difficult.
+
+* From a big city to another big one or a smaller one, we simply went to the first bus terminal and ask there when is the next departure. We were rather lucky and always got a bus without waiting much.
+* From a small city to a bigger one, same strategy. We went to the bus terminal or asked the locals where the buses would leave. However, even them struggle with the schedules. We often had to fallback to hitchhike, especially on Sundays. Of note, sometimes social medias can have nice informations. For instance, we found a WhatsApp group in Antuco that was only used to share bus schedules between its members.
+* Between two small cities, we usually did not try. Our travels between sections always went back to the main road. They are probably shorter options by staying in the secondary road network but we did not explore them.
+
+Of note, we had no troubel hitchhiking, especially on minor roads. In our experience, the less cars there is, the more likely they are to take you. Some even went on a extra mile (quite litteraly) by dropping us further than their planed route.
+
 ### Ressuply
 
-Our ressuply strategy was different in the South and the North. South of Puerto Montt, we only found smaller supermarket (Unimarc was the biggest chain), 
+Our ressuply strategy was different in the South and the North. South of Puerto Montt, we only found smaller supermarket (Unimarc was the biggest chain), so we took whatever we could find to create our trails meals.
 
+However, starting from Puerto Montt, we targeted the suspermarket Lider (local name for Wall Mart). They are well implemented in Chile, cheap, and have a good selection of options (not as much as Jumbo though). Only going to the same brand of supermarket allowed us to be more efficient while doing the groceries, and we develop our preferences (like this nice crunchy peanut butter!).
+
+We detail more our meals / hiking food in the dedicated page.
 
 ### Housing (iOverlander)
 
@@ -54,8 +65,17 @@ The carabineros are also a highlight of our trip. For some sections, the registr
 
 ### Navigation
 
-As highlighted in the manual, the navigation on the GPT can be challenging. We were used of the European (French) trails with regular marks and hard-to-miss paths. On the GPT, some sections part are not as easy. While it can be fun sometimes (we loved on GPT19 to run over the dunes trying to follow some directions on the GPS), it was also mentally exhausting to check over and over the GPS to find the appropriate direction or to understand where the track is trying to go. Our worst experience are not when no trail exist, but when you have about a dozen options and you don't know if you should stick to the track or go with the flow.
+As highlighted in the manual, the navigation on the GPT can be challenging. We were used of the European (French) trails with regular marks and hard-to-miss paths. On the GPT, some sections part are not as easy. While it can be fun sometimes (we loved on GPT19 to run over the dunes trying to follow some directions on the GPS), it was also mentally exhausting to check over and over the GPS to find the appropriate direction or to understand what the track is trying to go. Our worst experiences are not when no trail exist, but when you have about a dozen options and you don't know if you should stick closely to the track or go with the flow.
 
 ### Speaking Spanish
 
 During our hike on the GPT, we did not encounter many (if any) english speakers. If Iris followed some Spanish lessons during her studies, Alexis never learned the language. This language barrier was hard to overcome and he felt he missed something. Indeed, every interactions with the locals, which are true highlights of the hikes, were really limited on his side. Especially with the somewhat stronger accents in the South. In retrospective, we wished we had improved our Spanish level before leaving to enjoy our hike even more.
+
+### Electricity
+
+Our GPS model (Garmin Etrex 32X) works with batteries, so it was a must buy item during our ressuply. Fortunately, they are found almost everywhere. As we had a bad experience with batteries from an unknown brand, we decided to stick to Duracell's one.
+
+As we initally started our trip without external power bank, we had to manage our smartphone batteries. We always kept one of the phone off, and used the other one to take pictures. We minimized our phone usage to the maximum, only using the camera and Locus to have a broader overview of the trail. Thanks to Android's ultra energy saver mode, it took about 4 to 5 days to completely deplete a battery.
+
+### Toilets
+
