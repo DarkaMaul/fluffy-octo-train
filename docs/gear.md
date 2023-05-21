@@ -2,13 +2,13 @@
 
 !!! danger "Disclamer"
 
-    The following page list the content of our bags. We are neither affiliated nor endorsing the items we used.
+    The following page lists the content of our bags. We are neither affiliated nor endorsing the items we used.
 
 ## Preparation
 
 Filling our bags was a big part of our preparation for the GPT. During thru-hikes any item in the backpack need to be carried until the end. Hence, every gram counted and we aimed for light backpacks. We extensively used the french forum randonnee-leger (TODO), an online community of ultra light backpackers. While they sometimes make choices we were not ready to do, the forum is an information goldmine on light gear.
 
-We did test our gear in November 2022 before our departure by doing a two days hike in the Fontainebleau forest with friends. Even a short hike like this one helped us to learn a lot on our gear, and adjusted our backpacks afterwards (e.g. we changed the sleeping pads for others warmer).
+We did test our gear in November 2022 before our departure by doing a two days hike in the Fontainebleau forest with friends. Even a short hike like this one helped us to learn a lot on our gear, and adjusted our backpacks afterwards (e.g. we changed the sleeping pads for warmer ones).
 
 ## Initial list
 

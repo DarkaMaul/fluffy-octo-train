@@ -1,11 +1,10 @@
 site_name: YOLOV - GPT adventure
 
 nav:
-  - GPT adventure: 
-    - youwannahike.md
-    - Itinerary: hike.md
-    - Gear: gear.md
-    - Trail food: food.md
+  - index.md
+  - Itinerary: hike.md
+  - Gear: gear.md
+  - Trail food: food.md
   - Contact: contact.md
 
 theme:
@@ -14,7 +13,6 @@ theme:
   features:
     - navigation.footer
     - navigation.instant
-    - navigation.tabs
     - navigation.sections
 
   palette: 
@@ -33,6 +31,7 @@ theme:
 
 plugins:
   - search
+  - glightbox
 
 markdown_extensions:
 

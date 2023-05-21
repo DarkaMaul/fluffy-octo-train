@@ -88,4 +88,13 @@ Jan says it better in the manual but we managed to harvest food on the trail, ei
 
 ## Spices
 
-To improve our meaks, we carried some spices
+To improve our meals, we usually carried some spices:
+
+* salt
+* pepper
+* curry or curcuma
+* merken
+* garlic
+* canella
+
+Along our olive oil, this allowed to make every meal a bit tastier!
