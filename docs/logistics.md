@@ -14,7 +14,7 @@ The [Wikiexplora](https://www.wikiexplora.com/Greater_Patagonian_Trail) was also
 
 To embark on the GPT, it's essential to obtain the GPX tracks. Although we encountered a fellow hiker on GPT16 who relied solely on the inaccurate version found on Wikiloc, we would have felt unconfortable doing this. For example, this individual had no knowledge of the water sources in the desert section.
 
-To acquire the tracks, follow the instructions outlined in the manual. We are greatful Jan took the time to chat with us before sharing the tracks. Jan is an experienced hiker in Patagonia and his insights are gleaned from years of practice. We found his advice invaluable.
+To acquire the tracks, follow the instructions outlined in the manual. We are greatful Jan took the time to chat with us before sharing the tracks. We found his advice invaluable.
 
 As explained in the manual, the GPT is not a single trail, but rather a vast network of trails, spanning over 5,000 kilometers and divided into approximately 90 sections (as of 2023), and attempting to thru-hike the entire length in one season would be extremely challenging and dangerous, so it's important to plan accordingly.
 
@@ -119,5 +119,5 @@ We finally bought an external battery as a backup for the 12-9 stretch, but we n
 
 ### Toilets
 
-In the nature, we used our pee-rags (sewed by Iris before leaving) to keep our underwear clean longer. They allow to clean the last drop. For poop, we almost never carried toilet paper but used a small water bottle to clean ourselves.
+In the nature, we used our pee-rags (sewed by Iris before leaving) to keep our underwear clean longer. They allow to clean the last drop. For poop, we almost never carried toilet paper but used a small water bottle to clean ourselves (carried empty but water can be found often on the trail).
 We thought the combination of both the pee rag and the small bottle were weight efficient, hygienic, and confortable.

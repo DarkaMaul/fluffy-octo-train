@@ -215,7 +215,7 @@ Lightweight, with useful scisors.
 + **Our rating**: :material-star: :material-star: :material-star: :material-star-outline: :material-star-outline:
 + **Would bring back again**: no
 
-Light plates but too small. Expect to refill them numerous times for a coffee / tea session and for eating. At the end, we used our pan and the pot and this was more convenient.
+Ultra-light plates but too small. Expect to refill them numerous times for a coffee / tea session and for eating. At the end, we used our pan and the pot and this was more convenient.
 
 #### Filtering system (Sawyer MicroSqueeze with the bottle)
 
@@ -272,8 +272,8 @@ We had a love/hate relationship with our towel. While really ultralight (and rea
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star-outline:
 + **Would bring back again**: yes
 
-We had bought almost the same model. Alexis had a Gore-Tex Leather version while Iris had a more lightweight one. Both got ripped after the first 500 kilometers and we were lucky to find the exact same model in Chile to replace them. The next pair got destroyed in 2 weeks by Alexis while Iris' resisted better.
-Overall they are really nice trekking shoes, not so heavy and really confortable. We had almost zero problem with them (except for the last hike).
+We had bought almost the same model. Alexis had a Gore-Tex Leather version while Iris had a more lightweight classical one. Both got ripped after the first 500 kilometers and we were lucky to find the exact same model in Chile to replace them. The next pair got destroyed in 2 weeks by Alexis while Iris' resisted better.
+Overall they are really nice trekking shoes, not so heavy and really confortable, and they could mostly dry overnight. We had almost zero problem with them (except for the last hike).
 
 We will definitely buy them again (and again) for our next hikes.
 
@@ -336,7 +336,7 @@ Maybe more recent devices from Garmin are better, but this one did the job.
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star-outline:
 + **Would bring back again**: yes
 
-On Jans advices, we took it with us. It allowed us to _phone_ home every night to send our position. We never had to use the SOS functionnality but met some hikers that had to on a hike we did.
+On Jans advices, we took it with us. It allowed us to _phone_ home every night to send our position. We never had to use the SOS functionality but met some hikers that had to on a hike we did.
 
 ### Alexis' gear
 
@@ -396,14 +396,14 @@ Light, comfy and great volume. The only downside is the front belly pockets are 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star:
 + **Would bring back again**: yes
 
-Light, not too dark so does not attract too much tabanos. It proved resistant all along the trek. I neverused it in its shorts version during the trek.
+Light, not too dark so does not attract too much tabanos. It proved resistant all along the trek. I never used it in its shorts version during the trek.
 
 #### Socks (Sealskinz)
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star-outline:
 + **Would bring back again**: yes
 
-These socks are expensive but I liked to have them as they keep your feet dry for most river crossings. Once wet they are long to dry but the inner part can dry overnight. The problem is that if holes appears in it, the water gets stuck with your feet... so you asolutely need to replace them.
+These socks are expensive but I liked to have them as they keep your feet dry for most river crossings. Once wet they are long to dry but the inner part can dry overnight. The problem is that if holes appears in it, the water gets stuck with your feet... so you asolutely need to replace them when damaged.
 
 ## Gear modifications during the trip
 
@@ -448,7 +448,7 @@ As the trail sometimes cross streams and we did not want to take off our shoes f
   ![Clothes drying near the tent](img/gear/dryingclothes.jpg){ loading=lazy width=80% data-gallery="gear"}
 </figure>
 
-Because we had exactly two sets of clothes, one for hiking and another one for the night, we had to wash our hiking clothes every night to avoid awful smells. This is one of the reason we always picked (when possible) camp spot near water and decided to finish our hiking days with enough sun remaining to dry the clothes. As the days were really long in Patagonia, and we were lucky to get dry days, this went well.
+Because we had exactly two sets of clothes, one for hiking and another one for the night, we had to wash our hiking clothes every night to avoid smells. This is one of the reason we always picked (when possible) camp spot near water and decided to finish our hiking days with enough sun remaining to dry the clothes. As the days were really long in Patagonia, and we were lucky to get dry days, this went well.
 
 We would then during resupply do a proper laundry (with a real washing machine!).
 
@@ -597,7 +597,6 @@ If we liked our initial list, we did some additions to our backpacks during our 
            | Bandages           |                                       | 16       |
            | Drugs              | Paracetamol, Tramadol, Tiorfan...     | 60       |
            | Micropur           | Two tablets                           | 6        |
-           | Condoms            | Skyn (x5)                             | 14       |
            | Algodon            | Reusable                              | 3        |
            | **Hygiene** {: colspan=3 }   | &#8288 {: style="padding:0" }  | &#8288 {: style="padding:0" }      |
            | Sunscreen          | Stick Cicabio Bioderma 50+            | 30       |

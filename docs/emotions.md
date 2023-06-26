@@ -6,6 +6,12 @@
 
 ## The best moments
 
+
+### Hiking thru unpeopled areas
+
+For several streched we really felt alone, on barely hiked trailed (e.g. GPT37). This is a unique feeling to be surrended by unpeopled gorgeous nature !
+
+
 ### Climbing volcanos
 
 The route of the GPT allows for several options to climb volcanos. This is quite a unique experience and usually only a moderate detour. We climbed 5 of them :
