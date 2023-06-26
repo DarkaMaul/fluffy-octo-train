@@ -1,11 +1,22 @@
-site_name: YOLOV - GPT adventure
+site_name: Our GPT Adventure
 
 nav:
   - index.md
+  - Planning & Logistics: logistics.md
   - Itinerary: hike.md
   - Gear: gear.md
   - Trail food: food.md
+  - Joys & Pains: emotions.md
   - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/@DarkaMaul
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/@cervenka_iris
+
+copyright: Copyright &copy; 2023 - Alexis Challande & Iris Cervenka
 
 theme:
   name: material
@@ -15,23 +26,19 @@ theme:
     - navigation.instant
     - navigation.sections
 
-  palette: 
+  font:
+    text: Raleway
 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+  palette:
+    primary: blue grey
 
 plugins:
   - search
-  - glightbox
+  - glightbox:
+      auto_caption: true
 
 markdown_extensions:
 
@@ -49,6 +56,19 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  # Others
   - tables
+  - meta
   - admonition
   - attr_list
+  - md_in_html
+  - footnotes
+  - abbr
+
+extra_css:
+  - stylesheets/extra.css
+
