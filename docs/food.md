@@ -1,6 +1,6 @@
 # Food
 
-The food on the trail was a really important topic for us, and the one we learned the most during our hike. Indeed, we started with really low calories rations and ended up being hungry almost all the time and losing lot of weight in the first few weeks. Following [Piia and Oliver](https://www.nothingtwowrite.com/)[^1] example, we started to count calories and did our groceries with this food-math in mind. This was a bit complicated at first, but then, we developped sort of a habit and at the end, we knew the ballparks numbers of calories/100g of many of our typical food items.
+The food on the trail was a really important topic for us, and the one we learned the most during our hike. Indeed, we started with really low calories rations and ended up being hungry almost all the time and losing lot of weight in the first few weeks. Following [Piia and Oliver](https://www.nothingtwowrite.com/)[^1] example, we started to count calories and did our groceries with this food-math in mind. This was a bit complicated at first, but then, we developed sort of a habit and at the end, we knew the ballparks numbers of calories/100g of many of our typical food items.
 
 [^1]: A couple of GPT-hikers that hiked the GPT during the 2016-2017 season.
 
@@ -26,12 +26,12 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 
 <figure markdown>
   ![Oatmeal with Harina Tostada](img/food/avena.jpg){ loading=lazy width=45% data-gallery="food"}
-  <figcaption>A delicious hot breakfast with oatmeal, desydrathed soup and harina tostada.</figcaption>
+  <figcaption>A delicious hot breakfast with oatmeal, dehydrated soup and harina tostada.</figcaption>
 </figure>
 
 * **When**: just before leaving, after packing everything.
 * **What**: We had two different types:
-    * Instant avena with desydrathed soup (pollo was the favorite!), slighty cooked.
+    * Instant oatmeal with dehydrated soup (chicken was the favorite) slightly cooked.
     * Museli with milo (powder cacao) and cold water or powder milk.
 * **Alexis' bonus**: Harina tostada with cinamon.
 * **Calorie count**:
@@ -46,7 +46,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 </figure>
 
 * **When**: Usually after 2h/2h30 of walking or when one of us was feeling hungry
-* **What**: Cereals bars. There are multiple types in Chile, but it is hard to always find the same ones. Our favorite were the NatureValley, but we also loved Soul and Protein. However, the most available ones were the Quakkers, not super tasty. To reach the expected calories count, sometimes we had to take 2 or 3 bars for a single break.
+* **What**: Cereals bars. There are multiple types in Chile, but it is hard to always find the same ones. Our favorite were the NatureValley, but we also loved Soul and Protein. However, the most available ones were the Quakers, not super tasty. To reach the expected calories count, sometimes we had to take 2 or 3 bars for a single break.
 * **Alexis' bonus**: None.
 * **Calorie count**:
     * Alexis: 200
@@ -77,10 +77,10 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 * **When**: In the middle of the afternoon. For shorter hiking day, this was skipped.
 * **What**: Homemade trail mix. Our best combination was:
     - Peanuts with merken
-    - Japaneese peanuts
+    - Japanese peanuts
     - Chestnuts
     - Almonds
-* **Alexis' bonus**: Speculos or kit kat
+* **Alexis' bonus**: Spéculoos or kit kat
 * **Calorie count**: 
     * Alexis: 460
     * Iris: 250
@@ -94,9 +94,9 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 
 * **When**: Before going to sleep.
 * **What**: We alternated between few different options.  
-    * *Puree de papas* with desydrathed soup
-    * Polenta with spices or desydrathed soup
-    * Semola with spices or desydrathed soup
+    * *Puree de papas* with dehydrated soup
+    * Polenta with spices or dehydrated soup
+    * Semola with spices or dehydrated soup
     
     We always added soy meat (_carne de soja_) for proteins and often crispy onions for the taste.
     Finally, a desert (usually a cookie)!
@@ -110,7 +110,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 
 For shorter sections (like 19 or 16), we also carried vegetables to improve our daily meals (such as carrots for the tortillas, or avocados for the breakfast). A fresh version (but with less calories) of the lunch break was a tortilla with boiled eggs, carrots, red cabbage and hummus.
 
-Our alimentation lacked some vitamins, so we also took some supplements to limit our carences. And in towns, we would often buy lot of vegetables and eat big salads to compensate.
+Our regime lacked some vitamins, so we also took some supplements to limit our carences. And in towns, we would often buy lot of vegetables and eat big salads to compensate.
 
 ## Harvesting food
 
@@ -126,7 +126,7 @@ Jan explains the food you can find on trail better in the manual. For our part, 
 
 <figure markdown>
   ![A tortilla rescalda (super heavy!)](img/food/tortillarescalda.jpg){ loading=lazy width=45% data-gallery="food"}
-  <figcaption>A tortilla rescalda: a heavy but nutritous meal</figcaption>
+  <figcaption>A tortilla rescalda: a heavy but nutritious meal</figcaption>
 </figure>
 
 It is also possible to sometimes buy food on the trail to extend even further the reserves. For example, we were able to buy 5 _tortillas rescalda_ at the camping near Lago Desierto that lasted for days (one could easily serve as a lunch for 2).
@@ -141,7 +141,7 @@ To improve our meals, we usually carried some spices:
 * Merken[^2];
 * Garlic (_powder_) ;
 * Parmesan (_sold in bag of 40 or 80 g in every supermarket_);
-* Canella.
+* Cinnamon.
 
 Along our olive oil, this allowed to make every meal a bit tastier!
 
