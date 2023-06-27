@@ -55,7 +55,6 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Lunch
 
 <figure markdown>
-  ![Sometimes with fresh veggies!](img/food/tortillavege.jpg){ loading=lazy width=33% data-gallery="food"}
   ![Classic peanut butter tortilla](img/food/tortillapeanut.jpg){ loading=lazy width=18.6% data-gallery="food"}
   ![And one with honey](img/food/tortilladessert.jpg){ loading=lazy width=18.6% data-gallery="food"}
 </figure>
@@ -89,7 +88,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Dinner
 
 <figure markdown>
-  ![A plate with quinoa and carne de soya](img/food/quinoasoya.jpg){ loading=lazy width=60% data-gallery="food"}
+  ![A plate with carbs and carne de soya](img/food/quinoasoya.jpg){ loading=lazy width=60% data-gallery="food"}
   <figcaption>A plate with quinoa and _carne de soya_</figcaption>
 </figure>
 
@@ -109,7 +108,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 
 ## Extras
 
-For shorter sections (like 19 or 16), we also carried vegetables to improve our daily meals (such as carots for the tortillas, or avocados for the breakfast). A fresh version (but with less calories) of the lunch break was a tortilla with boiled eggs, carrots, red cabbage and hummus.
+For shorter sections (like 19 or 16), we also carried vegetables to improve our daily meals (such as carrots for the tortillas, or avocados for the breakfast). A fresh version (but with less calories) of the lunch break was a tortilla with boiled eggs, carrots, red cabbage and hummus.
 
 Our alimentation lacked some vitamins, so we also took some supplements to limit our carences. And in towns, we would often buy lot of vegetables and eat big salads to compensate.
 

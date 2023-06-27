@@ -120,4 +120,4 @@ We finally bought an external battery as a backup for the 12-9 stretch, but we n
 ### Toilets
 
 In the nature, we used our pee-rags (sewed by Iris before leaving) to keep our underwear clean longer. They allow to clean the last drop. For poop, we almost never carried toilet paper but used a small water bottle to clean ourselves (carried empty but water can be found often on the trail).
-We thought the combination of both the pee rag and the small bottle were weight efficient, hygienic, and confortable.
+We thought the combination of both the pee rag and the small bottle were weight efficient, hygienic, and comfortable. And more importantly, zero waste.

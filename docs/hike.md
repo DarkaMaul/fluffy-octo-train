@@ -61,7 +61,7 @@ This section is also known as the Huemul Circuit. This 4-day loop is rather chal
 * **Elevation**: 1589 m D+ / 1471 m D-
 * **Hiking time**: 13 h
 
-Our first real thru-hikes as the previous hikes were loops. This is also the best attractivity/difficulty ratio of the GPT with a stunning 5/1. While we were definitely not alone (we camped with hundred of other tents), the hike was really beautiful and indeed, extremely easy. We climbed up to Lago Dos Tres for the evening, which allowed us to avoid the crowd and reward us with beautiful evening lights over the Fitz Roy at the lake (where we brushed our teeths ;)). 
+Our first real thru-hikes as the previous hikes were loops. This is also the best attractivity/difficulty ratio of the GPT with a stunning 5/1. While we were definitely not alone (we camped with hundred of other tents), the hike was really beautiful and indeed, extremely easy. We climbed up to Lago Dos Tres for the evening, which allowed us to avoid the crowd and reward us with beautiful evening lights over the Fitz Roy at the lake (where we brushed our teeth ;)). 
 
 <figure markdown>
   ![](img/hike/GPT39_1.jpg){ loading=lazy width=32% data-gallery="GPT39"}

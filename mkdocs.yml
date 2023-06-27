@@ -2,8 +2,8 @@ site_name: Our GPT Adventure
 
 nav:
   - index.md
+  - Itinerary: hike.md  
   - Planning & Logistics: logistics.md
-  - Itinerary: hike.md
   - Gear: gear.md
   - Trail food: food.md
   - Joys & Pains: emotions.md

@@ -20,6 +20,18 @@ We are a French couple, Alexis (28) and Iris (29), taking a sabbatical year in S
 ## Contents
 
 <div class="grid cards" markdown>
+-   __Itinerary__
+
+    ---
+
+    Some random notes on the sections we hiked.
+
+    <figure markdown>
+        ![](img/index/itinerary_r_s.png){ loading=lazy width=100%}
+    </figure>
+
+    [:octicons-arrow-right-24: Hike](hike.md)
+
 -   __Planning and Logistics__
 
     ---
@@ -56,18 +68,6 @@ We are a French couple, Alexis (28) and Iris (29), taking a sabbatical year in S
     </figure>
 
     [:octicons-arrow-right-24: Food](food.md)
-
--   __Itinerary__
-
-    ---
-
-    Some random notes on the sections we hiked.
-
-    <figure markdown>
-        ![](img/index/itinerary_r_s.png){ loading=lazy width=100%}
-    </figure>
-
-    [:octicons-arrow-right-24: Hike](hike.md)
 
 -   __Joys & Pains__
 
