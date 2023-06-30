@@ -28,7 +28,6 @@ This travel blog is written using MkDocs, with the theme Material for MkDocs. It
 Several scripts are present in the repository to help create and maintain this blog:
 
 * A Python script to clean the GPX track elevations data and query Google Elevation API ;
-* A Python script using `Pillow`, an image processing library, to optimize the sizes of the pictures used in the blog ;
 * Some random helpers to convert the image using Cloudinary API.
 
 The scripts are under an [Apache-2](https://www.apache.org/licenses/LICENSE-2.0) licensing scheme.
