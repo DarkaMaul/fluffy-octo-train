@@ -1,7 +1,32 @@
 
 .md-typeset figure img {
    display: inline;
+}
 
+.md-typeset figure {
+   width: 80%;
+   
+}
+
+.md-typeset .two-image-figure {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+}
+
+.md-typeset .three-image-figure {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+}
+
+.md-typeset .four-image-figure {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 100%;
 }
 
 [data-md-color-scheme="default"] {

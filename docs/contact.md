@@ -8,7 +8,7 @@
 
 We are a French couple doing a sabbatical year in South America. While we both like to hike, before starting the GPT, we never did trekking before, and hence we consider ourselves beginners.
 
-You can contact us by sending an email at TODO.
+You can contact us by sending an email at [contact·@·walkgpt.fr](mailto:contact@walkgpt.fr).
 
 ## License and Copyright
 
@@ -23,11 +23,12 @@ You must not:
 
 ## Technical point
 
-This travel blog is written using Mkdocs, with the theme Material for MkDocs.
+This travel blog is written using MkDocs, with the theme Material for MkDocs. It is hosted on Cloudflare Pages using their GitHub integration and the images are provided by Cloudinary CDN.
 
 Several scripts are present in the repository to help create and maintain this blog:
 
 * A Python script to clean the GPX track elevations data and query Google Elevation API ;
 * A Python script using `Pillow`, an image processing library, to optimize the sizes of the pictures used in the blog ;
+* Some random helpers to convert the image using Cloudinary API.
 
 The scripts are under an [Apache-2](https://www.apache.org/licenses/LICENSE-2.0) licensing scheme.

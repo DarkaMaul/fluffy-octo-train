@@ -12,9 +12,9 @@ The [Wikiexplora](https://www.wikiexplora.com/Greater_Patagonian_Trail) was also
 
 ### Getting the tracks
 
-To embark on the GPT, it's essential to obtain the GPX tracks. Although we encountered a fellow hiker on GPT16 who relied solely on the inaccurate version found on Wikiloc, we would have felt unconfortable doing this. For example, this individual had no knowledge of the water sources in the desert section.
+To embark on the GPT, it's essential to obtain the GPX tracks. Although we encountered a fellow hiker on GPT16 who relied solely on the inaccurate version found on Wikiloc, we would have felt uncomfortable doing this. For example, this individual had no knowledge of the water sources in the desert section.
 
-To acquire the tracks, follow the instructions outlined in the manual. We are greatful Jan took the time to chat with us before sharing the tracks. We found his advice invaluable.
+To acquire the tracks, follow the instructions outlined in the manual. We are grateful Jan took the time to chat with us before sharing the tracks. We found his advice invaluable.
 
 As explained in the manual, the GPT is not a single trail, but rather a vast network of trails, spanning over 5,000 kilometers and divided into approximately 90 sections (as of 2023), and attempting to thru-hike the entire length in one season would be extremely challenging and dangerous, so it's important to plan accordingly.
 
@@ -25,7 +25,7 @@ When we initially set out, we didn't have a well-defined plan because we weren't
 ### Gear List
 
 <figure markdown>
-  ![Our gear laying on the bed before departure](img/logistics/gear.jpg){ loading=lazy width=80% data-gallery="index"}
+  ![Our gear laying on the bed before departure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/v1/WalkGPT/logistics/gear" data-gallery="logistics"}
   <figcaption>Our gear laying on the bed before departure</figcaption>
 </figure>
 
@@ -40,8 +40,9 @@ We describe more in details our gear list in [this page](gear.md).
 ### Bus
 
 <figure markdown>
-  ![Iris et Alexis](img/logistics/buscochrane.jpg){ loading=lazy width=80% data-gallery="index"}
-  <figcaption>The (subsidised) collectivo from Villa O'Higgins to Cochrane</figcaption>
+  ![Minibus for Cochrane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/buscochrane" data-gallery="logistics"}
+
+  <figcaption markdown>The (subsidised) _collectivo_ from Villa O'Higgins to Cochrane</figcaption>
 </figure>
 
 We extensively used the bus network to travel between the sections of the GPT. It was both affordable and reliable. However, getting the schedules of the smaller buses could be difficult.
@@ -53,19 +54,19 @@ When traveling from a small city to a bigger one, we followed the same strategy.
 For travels between two small cities, we usually did not try. Our travels between sections always went back to the main road. There are probably shorter options by staying in the secondary road network, but we did not explore them.
 
 <figure markdown>
-  ![View from the back of a pickup](img/logistics/stop.jpg){ loading=lazy width=80% data-gallery="index"}
-  <figcaption>Hitchking in a pickup truck is awseome as you have the best views!</figcaption>
+  ![View from the back of a pickup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/stop" data-gallery="logistics"}
+  <figcaption>Hitchhiking in a pickup truck is awesome as you have the best views!</figcaption>
 </figure>
 
 We had no trouble hitchhiking, especially on minor roads. In our experience, the fewer cars there were, the more likely they were to take us. Some even went the extra mile (quite literally) by dropping us off further than their planned route.
 
-### Ressuply
+### Resupply
 
 Our approach to resupplying on the trail differed depending on whether we were in the South or the North. South of Puerto Montt, we only came across smaller supermarkets (Unimarc were the biggest one), so we had to make do with whatever we could find to create our trail meals.
 
 <figure markdown>
-  ![Iris et Alexis](img/logistics/lider.png){ loading=lazy width=80% data-gallery="index"}
-  <figcaption>Lider logo (the local Wallmart)</figcaption>
+  ![Lider's logo](img/logistics/lider.png){ loading=lazy width=80% data-gallery="index"}
+  <figcaption>Lider logo (the local Walmart)</figcaption>
 </figure>
 
 However, once we reached Puerto Montt, we started targeting the Lider supermarket (the local equivalent of Walmart). Lider is well established in Chile, reasonably priced, and has a good selection of options (although not as much as Jumbo). By only shopping at the same brand of supermarket, we were able to be more efficient while grocery shopping and we even developed some food preferences (such as our love for the crunchy peanut butter!).
@@ -75,8 +76,9 @@ For more information on our meals and hiking food, please refer to the [dedicate
 ### Housing (iOverlander)
 
 <figure markdown>
-  ![Iris et Alexis](img/logistics/camp19.jpg){ loading=lazy width=80% data-gallery="index"}
-  <figcaption>Our camping spot near Volcán Quetrupillán</figcaption>
+  ![A perfect camping spot near the Volcan Quetrupillán](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/camp19" data-gallery="logistics"}
+
+  <figcaption>Our camping spot near Volcano Quetrupillán</figcaption>
 </figure>
 
 
@@ -85,8 +87,9 @@ Finding a camping spot on the trail is not difficult. Indeed, Jan (and the other
 ### Carabineros
 
 <figure markdown>
-  ![Iris in front of the Cariberineros Office in Puerto William](img/logistics/carabineros.jpg){ loading=lazy width=80% data-gallery="index"}
-  <figcaption>Iris in front of the Cariberineros Office in Puerto William. For this section, the registration is mandatory.</figcaption>
+  ![Iris in front of the Carabineros Office in Puerto William](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/carabineros" data-gallery="logistics"}
+
+  <figcaption>Iris in front of the Carabineros Office in Puerto William. For this section, the registration is mandatory.</figcaption>
 </figure>
 
 The Carabineros were also a highlight of our trip. For some sections, registration was mandatory (like in GPT67), but for others, we spontaneously went to greet them. They know the cordilleras well and gave us valuable advice on the trail. More importantly, they were also extremely friendly, offering to refill our bottles and suggesting appropriate camping spots in small towns along the way. We were positively surprised by their behavior!
@@ -94,7 +97,7 @@ The Carabineros were also a highlight of our trip. For some sections, registrati
 ### Navigation
 
 <figure markdown>
-  ![A navigation device is useful because sometimes there is no path](img/logistics/navigation.jpg){ loading=lazy width=80% data-gallery="index"}
+  ![A navigation device is useful because sometimes there is no path](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/navigation" data-gallery="logistics"}
   <figcaption>A navigation device is useful because sometimes there is no path. This photo was taken during the ascent of Descabezado Grande in GPT06.</figcaption>
 </figure>
 
@@ -103,7 +106,7 @@ As highlighted in the guidebook, navigation on the GPT can be challenging. We we
 ### Speaking Spanish
 
 <figure markdown>
-  ![Sopaipilla Workshop with Umberto](img/logistics/sopaipilla.jpg){ loading=lazy width=80% data-gallery="index"}
+  ![Sopaipilla Workshop with Umberto](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/sopaipilla" data-gallery="logistics"}
   <figcaption>Learning how to do sopaipillas with Umberto, an arriero encountered during GPT06.</figcaption>
 </figure>
 

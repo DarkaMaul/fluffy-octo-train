@@ -7,7 +7,7 @@ nav:
   - Gear: gear.md
   - Trail food: food.md
   - Joys & Pains: emotions.md
-  - Contact: contact.md
+  - Contact & Legal: contact.md
 
 extra:
   social:
@@ -15,11 +15,14 @@ extra:
       link: https://twitter.com/@DarkaMaul
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/@cervenka_iris
+    - icon: fontawesome/brands/github
+      link: https://github.com/DarkaMaul
 
 copyright: Copyright &copy; 2023 - Alexis Challande & Iris Cervenka
 
 theme:
   name: material
+  custom_dir: overrides
 
   features:
     - navigation.footer
