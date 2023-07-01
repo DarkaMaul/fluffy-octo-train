@@ -18,13 +18,13 @@ Our first hike on the GPT was the southernmost hike in the world! It was also on
 
 <figure class="four-image-figure" markdown>
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT67_1" data-gallery="GPT67"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT67_1" data-gallery="GPT67"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT67_2" data-gallery="GPT67"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT67_2" data-gallery="GPT67"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT67_3" data-gallery="GPT67"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT67_3" data-gallery="GPT67"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT67_4" data-gallery="GPT67"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT67_4" data-gallery="GPT67"}
 
 </figure>
 
@@ -38,11 +38,11 @@ Our first hike on the GPT was the southernmost hike in the world! It was also on
 Hiking in Torres del Paine requires more planning that we had, so we only found space in one camping there (Grande Paine). We thus hiked part of the W-trek as day-trips, returning to our camping everyevery nights park is really beautiful, but a bit overrun. Of note, the path to enter the park from "administration" is said to be closed in summer, but it is tolerated to hike it.
 
 <figure class="three-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT45_1" data-gallery="GPT45"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT45_1" data-gallery="GPT45"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT45_2" data-gallery="GPT45"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT45_2" data-gallery="GPT45"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT45_3" data-gallery="GPT45"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT45_3" data-gallery="GPT45"}
 </figure>
 
 ## GPT40
@@ -55,13 +55,13 @@ Hiking in Torres del Paine requires more planning that we had, so we only found 
 This section is also known as the Huemul Circuit. This 4-day loop is rather challenging, and we had our most scary moment of the GPT at the Paso del Viento. However, it is really unique and combine a walk on a glacier, some tyroleans, glaciers views, steep forests... we enjoyed it a lot! The last day is a bit less rewarding as the final kilometers are in an endless field, and then on a road.
 
 <figure class="four-image-figure" markdown> 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT40_1" data-gallery="GPT40"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT40_1" data-gallery="GPT40"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT40_2" data-gallery="GPT40"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT40_2" data-gallery="GPT40"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT40_3" data-gallery="GPT40"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT40_3" data-gallery="GPT40"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT40_4" data-gallery="GPT40"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT40_4" data-gallery="GPT40"}
 </figure>
 
 ## GPT39
@@ -74,11 +74,11 @@ This section is also known as the Huemul Circuit. This 4-day loop is rather chal
 Our first real thru-hikes as the previous hikes were loops. This is also the best attractiveness/difficulty ratio of the GPT with a stunning 5/1. While we were definitely not alone (we camped with hundred of other tents), the hike was really beautiful and indeed, extremely easy. We climbed up to Lago Dos Tres for the evening, which allowed us to avoid the crowd and reward us with beautiful evening lights over the Fitz Roy at the lake (where we brushed our teeth ;)). 
 
 <figure class="three-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT39_1" data-gallery="GPT39"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT39_1" data-gallery="GPT39"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT39_2" data-gallery="GPT39"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT39_2" data-gallery="GPT39"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT39_3" data-gallery="GPT39"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT39_3" data-gallery="GPT39"}
 </figure>
 
 ## GPT38
@@ -92,11 +92,11 @@ Our first real thru-hikes as the previous hikes were loops. This is also the bes
 This hike in the no-man lands between Argentina and Chile was great and was the first one we met almost nobody (we just saw a single tent in 4 days). Truly remote, not super difficult and with a great diversity of landscapes. Of note, the border control at the Argentinian side is a paradise spot for camping.
 
 <figure class="three-image-figure" markdown> 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT38_1" data-gallery="GPT38"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT38_1" data-gallery="GPT38"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT38_2" data-gallery="GPT38"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT38_2" data-gallery="GPT38"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT38_3" data-gallery="GPT38"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT38_3" data-gallery="GPT38"}
 </figure>
 
 ## GPT37
@@ -109,13 +109,13 @@ This hike in the no-man lands between Argentina and Chile was great and was the 
 Instead of doing the full section, we opted for the West Traverse and arranged a bot transfer to Bahia Pescada. Afterwards, we thought a faster and cheaper option would have been to resupply at the camping of Candela Mancila and take the boat directly from there. Then, we started hiking northbound until Villa O'Higgins. We met exactly 0 other human being in these 4 days, and hiked on barely hiked trails. Even though the navigation was sometimes challenging, this was a really great experience.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT37_1" data-gallery="GPT37"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT37_1" data-gallery="GPT37"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT37_2" data-gallery="GPT37"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT37_2" data-gallery="GPT37"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT37_3" data-gallery="GPT37"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT37_3" data-gallery="GPT37"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT37_4" data-gallery="GPT37"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT37_4" data-gallery="GPT37"}
 </figure>
 
 ## GPT32
@@ -128,13 +128,13 @@ Instead of doing the full section, we opted for the West Traverse and arranged a
 We did only a part of the 32, also known as La Horquetas, in the National Park Cerro Castillo. While the entrance is expensive, the hike in itself is rather nice and diverse with stunning landscapes. We also enjoyed going up to the different lakes.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT32_1" data-gallery="GPT32"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT32_1" data-gallery="GPT32"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT32_2" data-gallery="GPT32"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT32_2" data-gallery="GPT32"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT32_3" data-gallery="GPT32"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT32_3" data-gallery="GPT32"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT32_4" data-gallery="GPT32"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT32_4" data-gallery="GPT32"}
 
 </figure>
 
@@ -148,13 +148,13 @@ We did only a part of the 32, also known as La Horquetas, in the National Park C
 One of our favorite hike of the GPT, truly an amazing one. That was also our first ascent of a volcano and we were rewarded with unique views on the crater. While the hike begins in a forest, it is then walking without paths in the middles of volcanic dunes, without shade or water, running when going down and struggling when going up. We were rewarded from this dry crossing with a hot river at the end where we met a group of tourists with horses, that invited us to share their campfire. And a final day in a foggy forest that achieved an impressive diversity of landscapes.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT19_1" data-gallery="GPT19"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT19_1" data-gallery="GPT19"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT19_2" data-gallery="GPT19"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT19_2" data-gallery="GPT19"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT19_3" data-gallery="GPT19"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT19_3" data-gallery="GPT19"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT19_4" data-gallery="GPT19"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT19_4" data-gallery="GPT19"}
 </figure>
 
 
@@ -169,13 +169,13 @@ After a break due to the huge forest fires, we restarted our GPT adventure on th
 
 <figure class="four-image-figure" markdown>
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT16_1" data-gallery="GPT16"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT16_1" data-gallery="GPT16"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT16_2" data-gallery="GPT16"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT16_2" data-gallery="GPT16"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT16_3" data-gallery="GPT16"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT16_3" data-gallery="GPT16"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT16_4" data-gallery="GPT16"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT16_4" data-gallery="GPT16"}
 </figure>
 
 
@@ -188,11 +188,11 @@ After a break due to the huge forest fires, we restarted our GPT adventure on th
 We combined GPT12 to GPT09 in one stretch. The first part, on the 12, is probably the most beautiful of the stretch. It is a succession of highlights. We also had the chance to spend a night with a traveling arriero along a warming fire, to taste our first piñones and to share an asado with a group of tourist in the cordillera before taking a hot bath in the middle of nowhere.
 
 <figure class="three-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT12_1" data-gallery="GPT12"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT12_1" data-gallery="GPT12"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT12_2" data-gallery="GPT12"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT12_2" data-gallery="GPT12"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT12_3" data-gallery="GPT12"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT12_3" data-gallery="GPT12"}
 </figure>
 
 ## GPT11
@@ -204,11 +204,11 @@ We combined GPT12 to GPT09 in one stretch. The first part, on the 12, is probabl
 This section was really short. It started in a river bank that we used to go up for hours. This exhausting climb is rewarded by stunning views on the mountains, and the rest of the section is really straightforward. 
 
 <figure class="three-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT11_1" data-gallery="GPT11"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT11_1" data-gallery="GPT11"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT11_2" data-gallery="GPT11"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT11_2" data-gallery="GPT11"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT11_3" data-gallery="GPT11"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT11_3" data-gallery="GPT11"}
 </figure>
 
 ## GPT10
@@ -220,11 +220,11 @@ This section was really short. It started in a river bank that we used to go up 
 Another short section without major difficulties. We were joined in this section by a dog found near Laguna Barco that followed us for two days before we had to leave him in Trapa Trapa. The plateau, at the beginning of the hike, was stunning! Then, in Trapa Trapa, we stayed with a family and shared with them sopapillas, soup, drawings and how to build origamis.
 
 <figure class="three-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT10_1" data-gallery="GPT10"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT10_1" data-gallery="GPT10"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT10_2" data-gallery="GPT10"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT10_2" data-gallery="GPT10"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT10_3" data-gallery="GPT10"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT10_3" data-gallery="GPT10"}
 </figure>
 
 ## GPT09
@@ -236,13 +236,13 @@ Another short section without major difficulties. We were joined in this section
 A short section starting with a smooth ascent in the forest, a nice valley, and the Volcano Antuco! Climbing up is hard, but the small crater at the top and the beautiful views on Laguna Laja make it completely worth it.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT09_1" data-gallery="GPT09"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT09_1" data-gallery="GPT09"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT09_2" data-gallery="GPT09"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT09_2" data-gallery="GPT09"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT09_3" data-gallery="GPT09"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT09_3" data-gallery="GPT09"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/GPT09_4" data-gallery="GPT09"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/GPT09_4" data-gallery="GPT09"}
 </figure>
 
 ## GPT08
@@ -255,13 +255,13 @@ A short section starting with a smooth ascent in the forest, a nice valley, and 
 After a resupply break in Los Angeles (24h), we started section 8. This section was still great, but we were a bit tired by the previous stretch. Instead of finishing the section with the RR, we decided to climb Chillan and to exit at the Thermas de Chillan. This allowed us to shorten the route by a couple of days. Nonetheless, we loved our hot springs: both at Thermas de Peucos, and near Aguas Caliente.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT08_1" data-gallery="hike"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT08_1" data-gallery="hike"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT08_2" data-gallery="hike"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT08_2" data-gallery="hike"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT08_3" data-gallery="hike"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT08_3" data-gallery="hike"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT08_4" data-gallery="hike"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT08_4" data-gallery="hike"}
 </figure>
 
 ## GPT06
@@ -274,13 +274,13 @@ After a resupply break in Los Angeles (24h), we started section 8. This section 
 Our last section on the GPT, and arguably the best one. Instead of starting from Los Cypres, we rented horses in Vilche until Rio Blanquilo. This allowed us to experience the GPT's trails a bit more with the way of locomotion it was made for. Then, we did the Descabezado ascent, starting at 2AM in the cold night! This 2000m climb was exhausting but the morning lights at the top and the breakfast watching the ice in the crater made it worthwhile. Finally, the hike finished by some hot springs in Termas de Azufre after a day in the white sand, and with a trail in a forest.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT06_1" data-gallery="GPT06"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT06_1" data-gallery="GPT06"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT06_2" data-gallery="GPT06"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT06_2" data-gallery="GPT06"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT06_3" data-gallery="GPT06"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT06_3" data-gallery="GPT06"}
   
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/GPT06_4" data-gallery="GPT06"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT06_4" data-gallery="GPT06"}
 </figure>
 
 ## Bonus: Ruta Tantauco
@@ -293,11 +293,11 @@ Our last section on the GPT, and arguably the best one. Instead of starting from
 Because of the fires, we had to do a small break in our GPT exploration. After looking at alternatives, we decided to visit Chiloe and hike in the (private) Parque Tantauco. This trail of 94km in the wetland of Chiloe was beautiful, and not like any other sections of the GPT. First, it had a lot of infrastructures on the trail, a refugio with a stove every night, and a mark every 50m with the actual kilometers count. As the steps were forced and not excessively long (between 7 and 15 kilometers), we really enjoyed our afternoons near the fire reading and resting.
 
 <figure class="four-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/RT_1" data-gallery="RT"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/RT_1" data-gallery="RT"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/RT_2" data-gallery="RT"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/RT_2" data-gallery="RT"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/hike/RT_3" data-gallery="RT"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/hike/RT_3" data-gallery="RT"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/hike/RT_4" data-gallery="RT"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/RT_4" data-gallery="RT"}
 </figure>

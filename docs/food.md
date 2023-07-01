@@ -25,7 +25,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Breakfast
 
 <figure markdown>
-  ![Oatmeal with Harina Tostada](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/v1/WalkGPT/food/avena" data-gallery="food"}
+  ![Oatmeal with Harina Tostada](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/f_auto/v1/WalkGPT/food/avena" data-gallery="food"}
 
   <figcaption>A delicious hot breakfast with oatmeal, dehydrated soup and harina tostada.</figcaption>
 </figure>
@@ -42,9 +42,9 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Morning Snack
 
 <figure class="two-image-figure" markdown>
-  ![Bars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/bars" data-gallery="food"}
+  ![Bars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/bars" data-gallery="food"}
   
-  ![Bars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/bars2" data-gallery="food"}
+  ![Bars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/bars2" data-gallery="food"}
 
 </figure>
 
@@ -58,9 +58,9 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Lunch
 
 <figure class="two-image-figure" markdown>
-  ![Classic peanut butter tortilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/tortillapeanut" data-gallery="food"}
+  ![Classic peanut butter tortilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/tortillapeanut" data-gallery="food"}
 
-  ![And one with honey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/tortilladessert" data-gallery="food"}
+  ![And one with honey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/tortilladessert" data-gallery="food"}
 
 </figure>
 
@@ -76,7 +76,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Afternoon Snack
 
 <figure markdown>
-  ![Some nuts (home made trailmix)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/v1/WalkGPT/food/nuts" data-gallery="food"}
+  ![Some nuts (home made trailmix)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/f_auto/v1/WalkGPT/food/nuts" data-gallery="food"}
 
 </figure>
 
@@ -94,7 +94,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Dinner
 
 <figure markdown>
-  ![A plate with carbs and carne de soya](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/quinoasoya" data-gallery="food"}
+  ![A plate with carbs and carne de soya](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/quinoasoya" data-gallery="food"}
   <figcaption markdown>A plate with quinoa and _carne de soya_</figcaption>
 </figure>
 
@@ -121,13 +121,13 @@ Our regime lacked some vitamins, so we also took some supplements to limit our c
 ## Harvesting food
 
 <figure class="four-image-figure" markdown>
-  ![Harvesting them using a branch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/pinones0" data-gallery="food"}
+  ![Harvesting them using a branch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/pinones0" data-gallery="food"}
   
-  ![Remove the skin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/pinones1" data-gallery="food"}
+  ![Remove the skin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/pinones1" data-gallery="food"}
   
-  ![Cook them forever](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/pinones2" data-gallery="food"}
+  ![Cook them forever](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/pinones2" data-gallery="food"}
   
-  ![Fry them with some spices](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/food/pinones3" data-gallery="food"}
+  ![Fry them with some spices](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/food/pinones3" data-gallery="food"}
 
   <figcaption>Dealing with piñones</figcaption>
 </figure>
@@ -135,7 +135,7 @@ Our regime lacked some vitamins, so we also took some supplements to limit our c
 Jan explains the food you can find on trail better in the manual. For our part, we managed to harvest food on the trail, either directly from the nature, or simply by buying it to the locals. We were spoiled because we hiked in the Araucania region when the piñones were ripe, and ate plenty of those (we cooked them in open fires to save our gas). This allowed us to extend our reserves, and to do the 12-9 stretch in one go.
 
 <figure markdown>
-  ![A tortilla rescalda (super heavy!)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/v1/WalkGPT/food/tortillarescalda" data-gallery="food"}
+  ![A tortilla rescalda (super heavy!)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/f_auto/v1/WalkGPT/food/tortillarescalda" data-gallery="food"}
   <figcaption>A tortilla rescalda: a heavy but nutritious meal</figcaption>
 </figure>
 
@@ -158,9 +158,9 @@ Along our olive oil, this allowed to make every meal a bit tastier!
 ## Groceries repackaging
 
 <figure class="two-image-figure" markdown>
-  ![Before repackaging](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/food/caddie1" data-gallery="food"}
+  ![Before repackaging](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/food/caddie1" data-gallery="food"}
 
-  ![And after](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/food/caddie2" data-gallery="food"}
+  ![And after](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/food/caddie2" data-gallery="food"}
 </figure>
 
 To avoid carrying useless (and sometimes relatively heavy) packages, we always used a repackaging step with ziplocks. This allowed us to minimize the garbages we had during the hike and for the food to fit in our bags. We also used extensively the tortillas bags as bigger containers for many items.

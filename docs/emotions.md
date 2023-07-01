@@ -33,7 +33,7 @@ As a summary, we loved our volcanos climb, and they were some of the best moment
 ### The (natural) hot springs
 
 <figure markdown>
-  ![Alexis relaxing in a hot bath at Banos Coyucos](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/emotions/naturalbath" data-gallery="good"}
+  ![Alexis relaxing in a hot bath at Banos Coyucos](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/emotions/naturalbath" data-gallery="good"}
     <figcaption>Alexis relaxing at Banos Coyucos</figcaption>
 </figure>
 
@@ -42,9 +42,9 @@ Along the way, we encountered several spots with hot water in the nature (GPT19,
 ### Sopaipillas
 
 <figure class="two-image-figure" markdown>
-  ![Learning how to do sopaipillas in Candelario Mancilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/v1/WalkGPT/emotions/sopailesson" data-gallery="good"}
+  ![Learning how to do sopaipillas in Candelario Mancilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:546d78/f_auto/v1/WalkGPT/emotions/sopailesson" data-gallery="good"}
 
-  ![A welcome sign annoucing a Sopaipilla Feria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/emotions/sopaipilla" data-gallery="good"}
+  ![A welcome sign annoucing a Sopaipilla Feria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/emotions/sopaipilla" data-gallery="good"}
 </figure>
 
 Probably a gift from heavens to the mankind, this small breads fried in cow fat are one of the most delicious that exists. And the recipe is both extremely simple and very lenient to variations. We had the chance to learn how to bake them in Candelario Mancilla with Maria Luisa while waiting several days for our boat. We also by chance encountered a _Sopaipilla feria_ at the end of our GPT16, a perfect way to finish a section!
@@ -52,7 +52,7 @@ Probably a gift from heavens to the mankind, this small breads fried in cow fat 
 ### Bonus : a kitten
 
 <figure markdown>
-  ![Harina, a kitten found in Candelario Mancilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/emotions/harina" data-gallery="good"}
+  ![Harina, a kitten found in Candelario Mancilla](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/emotions/harina" data-gallery="good"}
   <figcaption>Harina</figcaption>
 </figure>
 
@@ -84,9 +84,9 @@ Nonetheless, it was not a pleasant experience to see that many of them.
 ### Spikes
 
 <figure class="two-image-figure" markdown>
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/emotions/annoying1" data-gallery="bad"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/emotions/annoying1" data-gallery="bad"}
 
-  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/emotions/annoying2" data-gallery="bad"}
+  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/emotions/annoying2" data-gallery="bad"}
 </figure>
 
 They are tiny, and you often don't really see them. But at the end of the day, you have numerous in your clothes (shoes, gaiters and pants). And they are annoying to remove because they are sharp. We encountered them in every section... and I guess, you just have to deal with them. Luckily, our pants were strong enough so removing them did not destroy them, but the gaiters suffered a bigger hit.

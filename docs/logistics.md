@@ -25,7 +25,7 @@ When we initially set out, we didn't have a well-defined plan because we weren't
 ### Gear List
 
 <figure markdown>
-  ![Our gear laying on the bed before departure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/v1/WalkGPT/logistics/gear" data-gallery="logistics"}
+  ![Our gear laying on the bed before departure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/f_auto/v1/WalkGPT/logistics/gear" data-gallery="logistics"}
   <figcaption>Our gear laying on the bed before departure</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ We describe more in details our gear list in [this page](gear.md).
 ### Bus
 
 <figure markdown>
-  ![Minibus for Cochrane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/buscochrane" data-gallery="logistics"}
+  ![Minibus for Cochrane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/buscochrane" data-gallery="logistics"}
 
   <figcaption markdown>The (subsidised) _collectivo_ from Villa O'Higgins to Cochrane</figcaption>
 </figure>
@@ -54,7 +54,7 @@ When traveling from a small city to a bigger one, we followed the same strategy.
 For travels between two small cities, we usually did not try. Our travels between sections always went back to the main road. There are probably shorter options by staying in the secondary road network, but we did not explore them.
 
 <figure markdown>
-  ![View from the back of a pickup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/stop" data-gallery="logistics"}
+  ![View from the back of a pickup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/stop" data-gallery="logistics"}
   <figcaption>Hitchhiking in a pickup truck is awesome as you have the best views!</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ For more information on our meals and hiking food, please refer to the [dedicate
 ### Housing (iOverlander)
 
 <figure markdown>
-  ![A perfect camping spot near the Volcan Quetrupillán](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/camp19" data-gallery="logistics"}
+  ![A perfect camping spot near the Volcan Quetrupillán](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/camp19" data-gallery="logistics"}
 
   <figcaption>Our camping spot near Volcano Quetrupillán</figcaption>
 </figure>
@@ -87,7 +87,7 @@ Finding a camping spot on the trail is not difficult. Indeed, Jan (and the other
 ### Carabineros
 
 <figure markdown>
-  ![Iris in front of the Carabineros Office in Puerto William](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/carabineros" data-gallery="logistics"}
+  ![Iris in front of the Carabineros Office in Puerto William](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/carabineros" data-gallery="logistics"}
 
   <figcaption>Iris in front of the Carabineros Office in Puerto William. For this section, the registration is mandatory.</figcaption>
 </figure>
@@ -97,7 +97,7 @@ The Carabineros were also a highlight of our trip. For some sections, registrati
 ### Navigation
 
 <figure markdown>
-  ![A navigation device is useful because sometimes there is no path](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/navigation" data-gallery="logistics"}
+  ![A navigation device is useful because sometimes there is no path](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/navigation" data-gallery="logistics"}
   <figcaption>A navigation device is useful because sometimes there is no path. This photo was taken during the ascent of Descabezado Grande in GPT06.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ As highlighted in the guidebook, navigation on the GPT can be challenging. We we
 ### Speaking Spanish
 
 <figure markdown>
-  ![Sopaipilla Workshop with Umberto](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/v1/WalkGPT/logistics/sopaipilla" data-gallery="logistics"}
+  ![Sopaipilla Workshop with Umberto](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/logistics/sopaipilla" data-gallery="logistics"}
   <figcaption>Learning how to do sopaipillas with Umberto, an arriero encountered during GPT06.</figcaption>
 </figure>
 
