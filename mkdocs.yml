@@ -20,6 +20,9 @@ extra:
 
 copyright: Copyright &copy; 2023 - Alexis Challande & Iris Cervenka
 
+site_description: Beginner hikers relate their experience on the Greater Patagonian Trail (GPT)
+site_author: Alexis Challande & Iris Cervenka
+
 theme:
   name: material
   custom_dir: overrides
