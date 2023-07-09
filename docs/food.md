@@ -132,7 +132,7 @@ Our regime lacked some vitamins, so we also took some supplements to limit our c
   <figcaption>Dealing with piñones</figcaption>
 </figure>
 
-Jan explains the food you can find on trail better in the manual. For our part, we managed to harvest food on the trail, either directly from the nature, or simply by buying it to the locals. We were spoiled because we hiked in the Araucania region when the piñones were ripe, and ate plenty of those (we cooked them in open fires to save our gas). This allowed us to extend our reserves, and to do the 12-9 stretch in one go.
+Jan explains the food you can find on trail better in the manual. For our part, we managed to harvest food on the trail, either directly from the nature, or simply by buying it to the locals. The sweet fruits of the fuschia made refreshing little snacks, calafate berries a more stringent snack, and blackberries a binge snack. We were also spoiled because we hiked in the Araucania region when the piñones were ripe, and ate plenty of those (we cooked them in open fires to save our gas). This allowed us to extend our reserves, and to do the 12-9 stretch in one go.
 
 <figure markdown>
   ![A tortilla rescalda (super heavy!)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_pad,dpr_auto,q_auto,w_auto,ar_4:3,b_rgb:ebebeb/f_auto/v1/WalkGPT/food/tortillarescalda" data-gallery="food"}

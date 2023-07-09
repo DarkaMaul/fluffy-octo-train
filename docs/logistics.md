@@ -120,6 +120,15 @@ Initially, we didn't have an external power bank, so we had to manage our smartp
 
 We finally bought an external battery as a backup for the 12-9 stretch, but we never needed it.
 
+### Pharmacy
+
+While taking advice from the center of international medicine in Saint Louis Hospital (Paris) and doctors in our surroundings, we tried to constitute a relatively lightweight pharmacy. We made the hypothesis that we would always be at max 3 days walking distance from a town or village, and hence we took only what we thought was the very first aid necessity. This implied we never engaged in a section if we felt some weaknesses or doubts about our health/body.
+
+We had some pain killers (10\*1g Paracetamol, and 7\*50mg Tramadol for heavier pains), material for wounds (10 cm of bandage to cut, 4 sterilized pads, 10 strips, 1 reusable cotton and a 50ml disinfectant), a medicine against heavy diarrhea (20\*100mg Tiorfan), and a morning-after contraceptive pill.
+We also had a little tube of corticoid in case of insect stings, but we forgot we had it until it broke and splashed in our pharmacy.
+
+We were lucky we never had to use our pharmacy during our walk, it served only to give pain killers to an arriero met on the way. But we were quite happy with what we carried for the context of the GPT.
+
 ### Toilets
 
 In the nature, we used our pee-rags (sewed by Iris before leaving) to keep our underwear clean longer. They allow to clean the last drop. For poop, we almost never carried toilet paper but used a small water bottle to clean ourselves (carried empty but water can be found often on the trail).

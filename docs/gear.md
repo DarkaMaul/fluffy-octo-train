@@ -224,6 +224,8 @@ Ultra-light plates but too small. Expect to refill them numerous times for a cof
 
 We have mixed feelings with those. We used them extensively and they never failed us. But the waterflow tends to be really small after a couple of use and it is annoying. And if the bottle used is not flexible, it is very hard to squeeze.
 
+On a side note, we also carried some Micropur as a backup system, but we never had to use them during our walk.
+
 #### Electricity
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star:
