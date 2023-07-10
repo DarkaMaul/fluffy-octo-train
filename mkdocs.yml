@@ -1,4 +1,5 @@
 site_name: Our GPT Adventure
+site_url: https://walkgpt.fr
 
 nav:
   - index.md
