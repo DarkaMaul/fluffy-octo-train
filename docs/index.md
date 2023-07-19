@@ -9,7 +9,7 @@ Have you heard of the Greater Patagonian Trail (GPT) ? It's gaining popularity a
 
 ## About Us
 
-We are a French couple, Alexis (28) and Iris (29), taking a sabbatical year in South America. While Alexis quit his job prior to leaving, Iris took advantage of a French law that allows up to 11 months of unpaid leave. Both of us love hiking and camping, but the GPT was our first experience with trekking. We were not experts on the subject and likely made some mistakes along the way. Fortunately, we completed our hikes without any injuries or major mishaps.
+We are a French couple, Alexis (28) and Iris (29), taking a sabbatical year in South America. While Alexis quit his job prior to leaving, Iris took advantage of a French law that allows up to 11 months of unpaid leave. Both of us love hiking and camping, but the GPT was our first experience with trekking. We were not experts on the subject and likely made some mistakes along the way. Fortunately, we completed our hikes, walking over 1,000 km for more than 3 months, without any injuries or major mishaps.
 
 <figure markdown>
   ![Iris and Alexis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/index/alexisyiris" data-gallery="index"}

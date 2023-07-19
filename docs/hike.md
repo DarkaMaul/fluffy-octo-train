@@ -35,7 +35,7 @@ Our first hike on the GPT was the southernmost hike in the world! It was also on
 * **Elevation**: 2401 m D+ / 2402 m D-
 * **Hiking time**: 20 h
 
-Hiking in Torres del Paine requires more planning that we had, so we only found space in one camping there (Grande Paine). We thus hiked part of the W-trek as day-trips, returning to our camping everyevery nights park is really beautiful, but a bit overrun. Of note, the path to enter the park from "administration" is said to be closed in summer, but it is tolerated to hike it.
+Hiking in Torres del Paine requires more planning that we had, so we only found space in one camping there (Grande Paine). We thus hiked part of the W-trek as day-trips, returning to our camping every nights. The park is really beautiful, but a bit overrun. Of note, the path to enter the park from "administration" is said to be closed in summer, but it is tolerated to hike it.
 
 <figure class="three-image-figure" markdown>
   ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){class="cld-responsive" data-src="https://res.cloudinary.com/walkgpt/image/upload/c_limit,dpr_auto,q_auto,w_auto/f_auto/v1/WalkGPT/hike/GPT45_1" data-gallery="GPT45"}
