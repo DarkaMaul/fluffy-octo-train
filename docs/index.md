@@ -1,5 +1,7 @@
 <figure markdown>
-  ![Shadows on the sand](img/index/couverture.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/index/couverture.jpg" class="glightbox" data-gallery="index" data-title="Shadows on the sand">
+    ![Shadows on the sand](img/index/couverture.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 # So you wanna hike the GPT (beginner edition)
@@ -13,7 +15,9 @@ Have you heard of the Greater Patagonian Trail (GPT) ? It's gaining popularity a
 We are a French couple, Alexis (28) and Iris (29), taking a sabbatical year in South America. While Alexis quit his job prior to leaving, Iris took advantage of a French law that allows up to 11 months of unpaid leave. Both of us love hiking and camping, but the GPT was our first experience with trekking. We were not experts on the subject and likely made some mistakes along the way. Fortunately, we completed our hikes, walking over 1,000 km for more than 3 months, without any injuries or major mishaps.
 
 <figure markdown>
-  ![Iris and Alexis](img/index/alexisyiris.jpg){ loading=lazy data-gallery="index"}
+  <a href="img/index/alexisyiris.jpg" class="glightbox" data-gallery="index" data-title="Iris and Alexis">
+    ![Iris and Alexis](img/index/alexisyiris.jpg){ loading=lazy }
+  </a>
   <figcaption>Us (at the start of GPT67)</figcaption>
 </figure>
 

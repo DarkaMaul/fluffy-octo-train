@@ -25,7 +25,9 @@ When we initially set out, we didn't have a well-defined plan because we weren't
 ### Gear List
 
 <figure markdown>
-  ![Our gear laying on the bed before departure](img/logistics/gear.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/gear.jpg" class="glightbox" data-gallery="index" data-title="Our gear laying on the bed before departure">
+    ![Our gear laying on the bed before departure](img/logistics/gear.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>Our gear laying on the bed before departure</figcaption>
 </figure>
 
@@ -40,7 +42,9 @@ We describe more in details our gear list in [this page](gear.md).
 ### Bus
 
 <figure markdown>
-  ![Iris et Alexis](img/logistics/buscochrane.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/buscochrane.jpg" class="glightbox" data-gallery="index" data-title="Iris et Alexis">
+    ![Iris et Alexis](img/logistics/buscochrane.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption markdown>The (subsidised) _collectivo_ from Villa O'Higgins to Cochrane</figcaption>
 </figure>
 
@@ -53,7 +57,9 @@ When traveling from a small city to a bigger one, we followed the same strategy.
 For travels between two small cities, we usually did not try. Our travels between sections always went back to the main road. There are probably shorter options by staying in the secondary road network, but we did not explore them.
 
 <figure markdown>
-  ![View from the back of a pickup](img/logistics/stop.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/stop.jpg" class="glightbox" data-gallery="index" data-title="View from the back of a pickup">
+    ![View from the back of a pickup](img/logistics/stop.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>Hitchhiking in a pickup truck is awesome as you have the best views!</figcaption>
 </figure>
 
@@ -64,7 +70,9 @@ We had no trouble hitchhiking, especially on minor roads. In our experience, the
 Our approach to resupplying on the trail differed depending on whether we were in the South or the North. South of Puerto Montt, we only came across smaller supermarkets (Unimarc were the biggest one), so we had to make do with whatever we could find to create our trail meals.
 
 <figure markdown>
-  ![Lider's logo](img/logistics/lider.png){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/lider.png" class="glightbox" data-gallery="index" data-title="Lider's logo">
+    ![Lider's logo](img/logistics/lider.png){ loading=lazy width=80% }
+  </a>
   <figcaption>Lider logo (the local Walmart)</figcaption>
 </figure>
 
@@ -75,7 +83,9 @@ For more information on our meals and hiking food, please refer to the [dedicate
 ### Housing (iOverlander)
 
 <figure markdown>
-  ![A perfect camping spot near the Volcan Quetrupillán](img/logistics/camp19.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/camp19.jpg" class="glightbox" data-gallery="index" data-title="A perfect camping spot near the Volcan Quetrupillán">
+    ![A perfect camping spot near the Volcan Quetrupillán](img/logistics/camp19.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>Our camping spot near Volcán Quetrupillán</figcaption>
 </figure>
 
@@ -85,7 +95,9 @@ Finding a camping spot on the trail is not difficult. Indeed, Jan (and the other
 ### Carabineros
 
 <figure markdown>
-  ![Iris in front of the Cariberineros Office in Puerto William](img/logistics/carabineros.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/carabineros.jpg" class="glightbox" data-gallery="index" data-title="Iris in front of the Cariberineros Office in Puerto William">
+    ![Iris in front of the Cariberineros Office in Puerto William](img/logistics/carabineros.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>Iris in front of the Cariberineros Office in Puerto William. For this section, the registration is mandatory.</figcaption>
 </figure>
 
@@ -94,7 +106,9 @@ The Carabineros were also a highlight of our trip. For some sections, registrati
 ### Navigation
 
 <figure markdown>
-  ![A navigation device is useful because sometimes there is no path](img/logistics/navigation.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/navigation.jpg" class="glightbox" data-gallery="index" data-title="A navigation device is useful because sometimes there is no path">
+    ![A navigation device is useful because sometimes there is no path](img/logistics/navigation.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>A navigation device is useful because sometimes there is no path. This photo was taken during the ascent of Descabezado Grande in GPT06.</figcaption>
 </figure>
 
@@ -103,7 +117,9 @@ As highlighted in the guidebook, navigation on the GPT can be challenging. We we
 ### Speaking Spanish
 
 <figure markdown>
-  ![Sopaipilla Workshop with Umberto](img/logistics/sopaipilla.jpg){ loading=lazy width=80% data-gallery="index"}
+  <a href="img/logistics/sopaipilla.jpg" class="glightbox" data-gallery="index" data-title="Sopaipilla Workshop with Umberto">
+    ![Sopaipilla Workshop with Umberto](img/logistics/sopaipilla.jpg){ loading=lazy width=80% }
+  </a>
   <figcaption>Learning how to do sopaipillas with Umberto, an arriero encountered during GPT06.</figcaption>
 </figure>
 
