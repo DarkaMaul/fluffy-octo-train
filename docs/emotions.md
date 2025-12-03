@@ -33,8 +33,10 @@ As a summary, we loved our volcanos climb, and they were some of the best moment
 ### The (natural) hot springs
 
 <figure markdown>
-  ![Alexis relaxing in a hot bath at Banos Coyucos](img/emotions/naturalbath.jpg){ loading=lazy width=60% data-gallery="good"}
-    <figcaption>Alexis relaxing at Banos Coyucos</figcaption>
+  <a href="img/emotions/naturalbath.jpg" class="glightbox" data-gallery="good" data-title="Alexis relaxing in a hot bath at Banos Coyucos">
+    ![Alexis relaxing in a hot bath at Banos Coyucos](img/emotions/naturalbath.jpg){ loading=lazy width=60% }
+  </a>
+  <figcaption>Alexis relaxing at Banos Coyucos</figcaption>
 </figure>
 
 Along the way, we encountered several spots with hot water in the nature (GPT19, GPT12, GPT08, GPT06...). Due to their remote nature, we were often alone there (or with just a few other people). They allowed for nice hot baths and relaxing moments after long day of hikes.
@@ -42,8 +44,12 @@ Along the way, we encountered several spots with hot water in the nature (GPT19,
 ### Sopaipillas
 
 <figure markdown>
-  ![Learning how to do sopaipillas in Candelario Mancilla](img/emotions/sopailesson.jpg){ loading=lazy width=25.2% data-gallery="good"}
-  ![A welcome sign annoucing a Sopaipilla Feria](img/emotions/sopaipilla.jpg){ loading=lazy width=45% data-gallery="good"}
+  <a href="img/emotions/sopailesson.jpg" class="glightbox" data-gallery="good" data-title="Learning how to do sopaipillas in Candelario Mancilla">
+    ![Learning how to do sopaipillas in Candelario Mancilla](img/emotions/sopailesson.jpg){ loading=lazy width=25.2% }
+  </a>
+  <a href="img/emotions/sopaipilla.jpg" class="glightbox" data-gallery="good" data-title="A welcome sign annoucing a Sopaipilla Feria">
+    ![A welcome sign annoucing a Sopaipilla Feria](img/emotions/sopaipilla.jpg){ loading=lazy width=45% }
+  </a>
 </figure>
 
 Probably a gift from heavens to the mankind, this small breads fried in cow fat are one of the most delicious that exists. And the recipe is both extremely simple and very lenient to variations. We had the chance to learn how to bake them in Candelario Mancilla with Maria Luisa while waiting several days for our boat. We also by chance encountered a _Sopaipilla feria_ at the end of our GPT16, a perfect way to finish a section!
@@ -51,7 +57,9 @@ Probably a gift from heavens to the mankind, this small breads fried in cow fat 
 ### Bonus : a kitten
 
 <figure markdown>
-  ![Harina, a kitten found in Candelario Mancilla](img/emotions/harina.jpg){ loading=lazy width=45% data-gallery="good"}
+  <a href="img/emotions/harina.jpg" class="glightbox" data-gallery="good" data-title="Harina, a kitten found in Candelario Mancilla">
+    ![Harina, a kitten found in Candelario Mancilla](img/emotions/harina.jpg){ loading=lazy width=45% }
+  </a>
   <figcaption>Harina</figcaption>
 </figure>
 
@@ -83,8 +91,12 @@ Nonetheless, it was not a pleasant experience to see that many of them.
 ### Spikes
 
 <figure markdown>
-  ![](img/emotions/annoying2.jpg){ loading=lazy width=30% data-gallery="annoying"}
-  ![](img/emotions/annoying1.jpg){ loading=lazy width=30% data-gallery="annoying"}
+  <a href="img/emotions/annoying2.jpg" class="glightbox" data-gallery="annoying">
+    ![](img/emotions/annoying2.jpg){ loading=lazy width=30% }
+  </a>
+  <a href="img/emotions/annoying1.jpg" class="glightbox" data-gallery="annoying">
+    ![](img/emotions/annoying1.jpg){ loading=lazy width=30% }
+  </a>
 </figure>
 
 They are tiny, and you often don't really see them. But at the end of the day, you have numerous in your clothes (shoes, gaiters and pants). And they are annoying to remove because they are sharp. We encountered them in every section... and I guess, you just have to deal with them. Luckily, our pants were strong enough so removing them did not destroy them, but the gaiters suffered a bigger hit.

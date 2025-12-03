@@ -166,7 +166,9 @@ We did test our gear in November 2022 before our departure by doing a two days h
 #### The tent (Durston X Mid 2P )
 
 <figure markdown>
-  ![The tent near a lake](img/gear/tent.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/tent.jpg" class="glightbox" data-gallery="gear" data-title="The tent near a lake">
+    ![The tent near a lake](img/gear/tent.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star:
@@ -177,7 +179,9 @@ Our home for the GPT and our adventures onwards, and a truely amazing one. It wa
 #### The cooking pot (Toaks 1300mL)
 
 <figure markdown>
-  ![The pot with our morning oatmeal](img/gear/pot.jpg){ loading=lazy width=60% data-gallery="gear"}
+  <a href="img/gear/pot.jpg" class="glightbox" data-gallery="gear" data-title="The pot with our morning oatmeal">
+    ![The pot with our morning oatmeal](img/gear/pot.jpg){ loading=lazy width=60% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star:
@@ -209,7 +213,9 @@ Lightweight, with useful scisors.
 #### Plates (Petit Navire Tuna Cans)
 
 <figure markdown>
-  ![Our plates](img/gear/tuna.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/tuna.jpg" class="glightbox" data-gallery="gear" data-title="Our plates">
+    ![Our plates](img/gear/tuna.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star-outline: :material-star-outline:
@@ -250,7 +256,9 @@ Finally, having earphones with noise cancellation was awesome during the long ho
 #### Headlights (Litecore NU25)
 
 <figure markdown>
-  ![Our headlights on](img/gear/headlights.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/headlights.jpg" class="glightbox" data-gallery="gear" data-title="Our headlights on">
+    ![Our headlights on](img/gear/headlights.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star: :material-star:
@@ -261,7 +269,9 @@ As the days are really long in December in Patagonia, we did not use them at thi
 #### Towel (NatureHike Microfiber)
 
 <figure markdown>
-  ![The remains of our hygiene elements](img/gear/toothpaste.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/toothpaste.jpg" class="glightbox" data-gallery="gear" data-title="The remains of our hygiene elements">
+    ![The remains of our hygiene elements](img/gear/toothpaste.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star-outline: :material-star-outline:
@@ -324,7 +334,9 @@ A luxury item. As we had them, we used them (e.g. for the tent entrance) but the
 #### Navigation Device (Garmin Etrex 32X)
 
 <figure markdown>
-  ![Alexis trying to read the screen of the GPS](img/gear/gps.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/gps.jpg" class="glightbox" data-gallery="gear" data-title="Alexis trying to read the screen of the GPS">
+    ![Alexis trying to read the screen of the GPS](img/gear/gps.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 + **Our rating**: :material-star: :material-star: :material-star: :material-star-outline: :material-star-outline:
@@ -420,7 +432,9 @@ On the GPT, we mostly encountred these brands:
 * Decathlon: only near Santiago, but with a different selection that we found in France.
 
 <figure markdown>
-  ![Shoes before/after](img/gear/shoes_new_old.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/shoes_new_old.jpg" class="glightbox" data-gallery="gear" data-title="Shoes before/after">
+    ![Shoes before/after](img/gear/shoes_new_old.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 On our trip, we had to replace:
@@ -439,7 +453,9 @@ Our repairs worked well and we finished our GPT hike with the tent without any f
 ### Camp shoes
 
 <figure markdown>
-  ![Our beautiful campshoes](img/gear/campshoes.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/campshoes.jpg" class="glightbox" data-gallery="gear" data-title="Our beautiful campshoes">
+    ![Our beautiful campshoes](img/gear/campshoes.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 As the trail sometimes cross streams and we did not want to take off our shoes for them, we finished some days with wet shoes and feets. For our first hike, we used our home made vibram shoes. However, we did not find a way to have them stick enough to the feets, so they were useless (and somehow dangerous). We throw them away in Torres del Paine. For the next weeks, we had no camp shoes which was rather uncomfortable. We managed to find some light options in Villa O'Higgins, and finished our hike with them.
@@ -447,7 +463,9 @@ As the trail sometimes cross streams and we did not want to take off our shoes f
 ## Laundry time
 
 <figure markdown>
-  ![Clothes drying near the tent](img/gear/dryingclothes.jpg){ loading=lazy width=80% data-gallery="gear"}
+  <a href="img/gear/dryingclothes.jpg" class="glightbox" data-gallery="gear" data-title="Clothes drying near the tent">
+    ![Clothes drying near the tent](img/gear/dryingclothes.jpg){ loading=lazy width=80% }
+  </a>
 </figure>
 
 Because we had exactly two sets of clothes, one for hiking and another one for the night, we had to wash our hiking clothes every night to avoid smells. This is one of the reason we always picked (when possible) camp spot near water and decided to finish our hiking days with enough sun remaining to dry the clothes. As the days were really long in Patagonia, and we were lucky to get dry days, this went well.
