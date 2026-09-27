@@ -1,9 +1,7 @@
 # About us
 
 <figure markdown>
-  <a href="assets/logo.png" class="glightbox" data-gallery="index" data-title="Two mammoths hiking">
-    ![Two mammoths hiking](assets/logo.png){ loading=lazy width=80% }
-  </a>
+  ![Two mammoths hiking](assets/logo.png){ loading=lazy width=80% data-gallery="index"}
 </figure>
 
 ## Iris & Alexis

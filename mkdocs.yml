@@ -41,6 +41,8 @@ theme:
 
 plugins:
   - search
+  - glightbox:
+      auto_caption: true
 
 markdown_extensions:
 
@@ -73,9 +75,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-  - assets/stylesheets/glightbox.min.css
-
-extra_javascript:
-  - assets/javascripts/glightbox.min.js
-  - assets/javascripts/glightbox-init.js
-
+  # Keep GLightbox styled after instant navigation replaces the document head.
+  - https://unpkg.com/glightbox@3/dist/css/glightbox.min.css
