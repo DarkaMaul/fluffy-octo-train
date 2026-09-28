@@ -1,3 +1,5 @@
 .env
 others
-img_original/
+img_original/*
+!img_original/hike/
+!img_original/hike/*.jpg

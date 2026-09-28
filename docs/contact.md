@@ -23,7 +23,7 @@ You must not:
 
 ## Technical point
 
-This travel blog is built with Zensical. It is hosted on Cloudflare Pages using their GitHub integration and the images are provided by Cloudinary CDN.
+This travel blog is built with Zensical and hosted on Cloudflare Pages using their GitHub integration. Responsive image variants are generated locally and served with the site.
 
 Several scripts are present in the repository to help create and maintain this blog:
 
