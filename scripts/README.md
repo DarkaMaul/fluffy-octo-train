@@ -2,13 +2,14 @@
 
 Random scripts used in the context of the blog.
 
-## Hike images
+## Images
 
-Install `cwebp`, then regenerate the committed responsive hike images with:
+Install `cwebp`, then regenerate the committed responsive images with:
 
 ```console
-./scripts/generate_hike_images.sh
+./scripts/generate_images.sh
 ```
 
-The original JPEG files live in `img_original/hike`. The script produces 320 px
-and 640 px thumbnails plus 1600 px lightbox images in `docs/img/hike`.
+The original files live in `img_original`. For JPEG photos, the script produces
+320 px and 640 px thumbnails plus 1600 px lightbox images in `docs/img`. PNG
+assets are converted to WebP at their original dimensions.

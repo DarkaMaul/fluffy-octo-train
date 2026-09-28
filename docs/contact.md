@@ -28,6 +28,6 @@ This travel blog is built with Zensical and hosted on Cloudflare Pages using the
 Several scripts are present in the repository to help create and maintain this blog:
 
 * A Python script to clean the GPX track elevations data and query Google Elevation API ;
-* Some random helpers to convert the image using Cloudinary API.
+* A shell script to generate the responsive WebP images.
 
 The scripts are under an [Apache-2](https://www.apache.org/licenses/LICENSE-2.0) licensing scheme.

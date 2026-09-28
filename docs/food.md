@@ -25,7 +25,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Breakfast
 
 <figure markdown>
-  ![Oatmeal with Harina Tostada](img/food/avena.jpg){ loading=lazy width=45% data-gallery="food"}
+  [![Oatmeal with Harina Tostada](/img/food/avena-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 45%" srcset="/img/food/avena-320.webp 320w, /img/food/avena-640.webp 640w, /img/food/avena-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/avena-1600.webp){ .glightbox data-gallery="food" }
   <figcaption>A delicious hot breakfast with oatmeal, dehydrated soup and harina tostada.</figcaption>
 </figure>
 
@@ -41,8 +41,8 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Morning Snack
 
 <figure markdown>
-  ![Bars](img/food/bars2.jpg){ loading=lazy width=45% data-gallery="food"}
-  ![Bars](img/food/bars.jpg){ loading=lazy width=45% data-gallery="food"}
+  [![Bars](/img/food/bars2-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 45%" srcset="/img/food/bars2-320.webp 320w, /img/food/bars2-640.webp 640w, /img/food/bars2-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/bars2-1600.webp){ .glightbox data-gallery="food" }
+  [![Bars](/img/food/bars-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 45%" srcset="/img/food/bars-320.webp 320w, /img/food/bars-640.webp 640w, /img/food/bars-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/bars-1600.webp){ .glightbox data-gallery="food" }
 </figure>
 
 * **When**: Usually after 2h/2h30 of walking or when one of us was feeling hungry
@@ -55,8 +55,8 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Lunch
 
 <figure markdown>
-  ![Classic peanut butter tortilla](img/food/tortillapeanut.jpg){ loading=lazy width=18.6% data-gallery="food"}
-  ![And one with honey](img/food/tortilladessert.jpg){ loading=lazy width=18.6% data-gallery="food"}
+  [![Classic peanut butter tortilla](/img/food/tortillapeanut-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 18.6%" srcset="/img/food/tortillapeanut-320.webp 320w, /img/food/tortillapeanut-640.webp 640w, /img/food/tortillapeanut-1600.webp 1600w" sizes="(max-width: 768px) 14.9vw, 102px" }](/img/food/tortillapeanut-1600.webp){ .glightbox data-gallery="food" }
+  [![And one with honey](/img/food/tortilladessert-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 18.6%" srcset="/img/food/tortilladessert-320.webp 320w, /img/food/tortilladessert-640.webp 640w, /img/food/tortilladessert-1600.webp 1600w" sizes="(max-width: 768px) 14.9vw, 102px" }](/img/food/tortilladessert-1600.webp){ .glightbox data-gallery="food" }
 </figure>
 
 * **When**: Between 12 and 14, usually 2-2h30 after the snack.
@@ -71,7 +71,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Afternoon Snack
 
 <figure markdown>
-  ![Some nuts (home made trailmix)](img/food/nuts.jpg){ loading=lazy width=45% data-gallery="food"}
+  [![Some nuts (home made trailmix)](/img/food/nuts-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 45%" srcset="/img/food/nuts-320.webp 320w, /img/food/nuts-640.webp 640w, /img/food/nuts-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/nuts-1600.webp){ .glightbox data-gallery="food" }
 </figure>
 
 * **When**: In the middle of the afternoon. For shorter hiking day, this was skipped.
@@ -88,7 +88,7 @@ A typical day on the trail was with 5 meals every 2h/2h30:
 ### Dinner
 
 <figure markdown>
-  ![A plate with carbs and carne de soya](img/food/quinoasoya.jpg){ loading=lazy width=60% data-gallery="food"}
+  [![A plate with carbs and carne de soya](/img/food/quinoasoya-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 60%" srcset="/img/food/quinoasoya-320.webp 320w, /img/food/quinoasoya-640.webp 640w, /img/food/quinoasoya-1600.webp 1600w" sizes="(max-width: 768px) 48.0vw, 330px" }](/img/food/quinoasoya-1600.webp){ .glightbox data-gallery="food" }
   <figcaption markdown>A plate with quinoa and _carne de soya_</figcaption>
 </figure>
 
@@ -115,17 +115,17 @@ Our regime lacked some vitamins, so we also took some supplements to limit our c
 ## Harvesting food
 
 <figure markdown>
-  ![Harvesting them using a branch](img/food/pinones0.jpg){ loading=lazy width=24% data-gallery="food"}
-  ![Remove the skin](img/food/pinones1.jpg){ loading=lazy width=24% data-gallery="food"}
-  ![Cook them forever](img/food/pinones2.jpg){ loading=lazy width=24% data-gallery="food"}
-  ![Fry them with some spices](img/food/pinones3.jpg){ loading=lazy width=13.6% data-gallery="food"}
+  [![Harvesting them using a branch](/img/food/pinones0-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 24%" srcset="/img/food/pinones0-320.webp 320w, /img/food/pinones0-640.webp 640w, /img/food/pinones0-1600.webp 1600w" sizes="(max-width: 768px) 19.2vw, 132px" }](/img/food/pinones0-1600.webp){ .glightbox data-gallery="food" }
+  [![Remove the skin](/img/food/pinones1-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 24%" srcset="/img/food/pinones1-320.webp 320w, /img/food/pinones1-640.webp 640w, /img/food/pinones1-1600.webp 1600w" sizes="(max-width: 768px) 19.2vw, 132px" }](/img/food/pinones1-1600.webp){ .glightbox data-gallery="food" }
+  [![Cook them forever](/img/food/pinones2-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 24%" srcset="/img/food/pinones2-320.webp 320w, /img/food/pinones2-640.webp 640w, /img/food/pinones2-1600.webp 1600w" sizes="(max-width: 768px) 19.2vw, 132px" }](/img/food/pinones2-1600.webp){ .glightbox data-gallery="food" }
+  [![Fry them with some spices](/img/food/pinones3-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 13.6%" srcset="/img/food/pinones3-320.webp 320w, /img/food/pinones3-640.webp 640w, /img/food/pinones3-1600.webp 1600w" sizes="(max-width: 768px) 10.9vw, 75px" }](/img/food/pinones3-1600.webp){ .glightbox data-gallery="food" }
     <figcaption>Dealing with piñones</figcaption>
 </figure>
 
 Jan explains the food you can find on trail better in the manual. For our part, we managed to harvest food on the trail, either directly from the nature, or simply by buying it to the locals. The sweet fruits of the fuschia made refreshing little snacks, calafate berries a more stringent snack, and blackberries a binge snack. We were also spoiled because we hiked in the Araucania region when the piñones were ripe, and ate plenty of those (we cooked them in open fires to save our gas). This allowed us to extend our reserves, and to do the 12-9 stretch in one go.
 
 <figure markdown>
-  ![A tortilla rescalda (super heavy!)](img/food/tortillarescalda.jpg){ loading=lazy width=45% data-gallery="food"}
+  [![A tortilla rescalda (super heavy!)](/img/food/tortillarescalda-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 45%" srcset="/img/food/tortillarescalda-320.webp 320w, /img/food/tortillarescalda-640.webp 640w, /img/food/tortillarescalda-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/tortillarescalda-1600.webp){ .glightbox data-gallery="food" }
   <figcaption>A tortilla rescalda: a heavy but nutritious meal</figcaption>
 </figure>
 
@@ -148,8 +148,8 @@ Along our olive oil, this allowed to make every meal a bit tastier!
 ## Groceries repackaging
 
 <figure markdown>
-  ![Before repackaging](img/food/caddie1.jpg){ loading=lazy width=25.2% data-gallery="food"}
-  ![And after](img/food/caddie2.jpg){ loading=lazy width=45% data-gallery="food"}
+  [![Before repackaging](/img/food/caddie1-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 25.2%" srcset="/img/food/caddie1-320.webp 320w, /img/food/caddie1-640.webp 640w, /img/food/caddie1-1600.webp 1600w" sizes="(max-width: 768px) 20.2vw, 139px" }](/img/food/caddie1-1600.webp){ .glightbox data-gallery="food" }
+  [![And after](/img/food/caddie2-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 45%" srcset="/img/food/caddie2-320.webp 320w, /img/food/caddie2-640.webp 640w, /img/food/caddie2-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/food/caddie2-1600.webp){ .glightbox data-gallery="food" }
 </figure>
 
 To avoid carrying useless (and sometimes relatively heavy) packages, we always used a repackaging step with ziplocks. This allowed us to minimize the garbages we had during the hike and for the food to fit in our bags. We also used extensively the tortillas bags as bigger containers for many items.
