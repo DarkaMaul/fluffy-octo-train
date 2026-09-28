@@ -33,7 +33,7 @@ As a summary, we loved our volcanos climb, and they were some of the best moment
 ### The (natural) hot springs
 
 <figure markdown>
-  ![Alexis relaxing in a hot bath at Banos Coyucos](img/emotions/naturalbath.jpg){ loading=lazy width=60% data-gallery="good"}
+  [![Alexis relaxing in a hot bath at Banos Coyucos](/img/emotions/naturalbath-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 60%" srcset="/img/emotions/naturalbath-320.webp 320w, /img/emotions/naturalbath-640.webp 640w, /img/emotions/naturalbath-1600.webp 1600w" sizes="(max-width: 768px) 48.0vw, 330px" }](/img/emotions/naturalbath-1600.webp){ .glightbox data-gallery="good" }
     <figcaption>Alexis relaxing at Banos Coyucos</figcaption>
 </figure>
 
@@ -42,8 +42,8 @@ Along the way, we encountered several spots with hot water in the nature (GPT19,
 ### Sopaipillas
 
 <figure markdown>
-  ![Learning how to do sopaipillas in Candelario Mancilla](img/emotions/sopailesson.jpg){ loading=lazy width=25.2% data-gallery="good"}
-  ![A welcome sign annoucing a Sopaipilla Feria](img/emotions/sopaipilla.jpg){ loading=lazy width=45% data-gallery="good"}
+  [![Learning how to do sopaipillas in Candelario Mancilla](/img/emotions/sopailesson-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 25.2%" srcset="/img/emotions/sopailesson-320.webp 320w, /img/emotions/sopailesson-640.webp 640w, /img/emotions/sopailesson-1600.webp 1600w" sizes="(max-width: 768px) 20.2vw, 139px" }](/img/emotions/sopailesson-1600.webp){ .glightbox data-gallery="good" }
+  [![A welcome sign annoucing a Sopaipilla Feria](/img/emotions/sopaipilla-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 45%" srcset="/img/emotions/sopaipilla-320.webp 320w, /img/emotions/sopaipilla-640.webp 640w, /img/emotions/sopaipilla-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/emotions/sopaipilla-1600.webp){ .glightbox data-gallery="good" }
 </figure>
 
 Probably a gift from heavens to the mankind, this small breads fried in cow fat are one of the most delicious that exists. And the recipe is both extremely simple and very lenient to variations. We had the chance to learn how to bake them in Candelario Mancilla with Maria Luisa while waiting several days for our boat. We also by chance encountered a _Sopaipilla feria_ at the end of our GPT16, a perfect way to finish a section!
@@ -51,7 +51,7 @@ Probably a gift from heavens to the mankind, this small breads fried in cow fat 
 ### Bonus : a kitten
 
 <figure markdown>
-  ![Harina, a kitten found in Candelario Mancilla](img/emotions/harina.jpg){ loading=lazy width=45% data-gallery="good"}
+  [![Harina, a kitten found in Candelario Mancilla](/img/emotions/harina-320.webp){ loading=lazy decoding=async width=320 height=240 style="width: 45%" srcset="/img/emotions/harina-320.webp 320w, /img/emotions/harina-640.webp 640w, /img/emotions/harina-1600.webp 1600w" sizes="(max-width: 768px) 36.0vw, 248px" }](/img/emotions/harina-1600.webp){ .glightbox data-gallery="good" }
   <figcaption>Harina</figcaption>
 </figure>
 
@@ -83,8 +83,8 @@ Nonetheless, it was not a pleasant experience to see that many of them.
 ### Spikes
 
 <figure markdown>
-  ![](img/emotions/annoying2.jpg){ loading=lazy width=30% data-gallery="annoying"}
-  ![](img/emotions/annoying1.jpg){ loading=lazy width=30% data-gallery="annoying"}
+  [![](/img/emotions/annoying2-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 30%" srcset="/img/emotions/annoying2-320.webp 320w, /img/emotions/annoying2-640.webp 640w, /img/emotions/annoying2-1600.webp 1600w" sizes="(max-width: 768px) 24.0vw, 165px" }](/img/emotions/annoying2-1600.webp){ .glightbox data-gallery="annoying" }
+  [![](/img/emotions/annoying1-320.webp){ loading=lazy decoding=async width=320 height=427 style="width: 30%" srcset="/img/emotions/annoying1-320.webp 320w, /img/emotions/annoying1-640.webp 640w, /img/emotions/annoying1-1600.webp 1600w" sizes="(max-width: 768px) 24.0vw, 165px" }](/img/emotions/annoying1-1600.webp){ .glightbox data-gallery="annoying" }
 </figure>
 
 They are tiny, and you often don't really see them. But at the end of the day, you have numerous in your clothes (shoes, gaiters and pants). And they are annoying to remove because they are sharp. We encountered them in every section... and I guess, you just have to deal with them. Luckily, our pants were strong enough so removing them did not destroy them, but the gaiters suffered a bigger hit.

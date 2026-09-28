@@ -1,3 +1,6 @@
 .env
 others
-img_original/
+img_original/*
+!img_original/*/
+!img_original/*/*.jpg
+!img_original/*/*.png

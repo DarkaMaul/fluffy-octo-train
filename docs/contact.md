@@ -23,11 +23,11 @@ You must not:
 
 ## Technical point
 
-This travel blog is built with Zensical. It is hosted on Cloudflare Pages using their GitHub integration and the images are provided by Cloudinary CDN.
+This travel blog is built with Zensical and hosted on Cloudflare Pages using their GitHub integration. Responsive image variants are generated locally and served with the site.
 
 Several scripts are present in the repository to help create and maintain this blog:
 
 * A Python script to clean the GPX track elevations data and query Google Elevation API ;
-* Some random helpers to convert the image using Cloudinary API.
+* A shell script to generate the responsive WebP images.
 
 The scripts are under an [Apache-2](https://www.apache.org/licenses/LICENSE-2.0) licensing scheme.
