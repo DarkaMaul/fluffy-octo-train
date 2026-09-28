@@ -23,7 +23,7 @@ You must not:
 
 ## Technical point
 
-This travel blog is written using MkDocs, with the theme Material for MkDocs. It is hosted on Cloudflare Pages using their GitHub integration and the images are provided by Cloudinary CDN.
+This travel blog is built with Zensical. It is hosted on Cloudflare Pages using their GitHub integration and the images are provided by Cloudinary CDN.
 
 Several scripts are present in the repository to help create and maintain this blog:
 
