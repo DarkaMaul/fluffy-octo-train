@@ -75,5 +75,3 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-  # Keep GLightbox styled after instant navigation replaces the document head.
-  - https://unpkg.com/glightbox@3/dist/css/glightbox.min.css
